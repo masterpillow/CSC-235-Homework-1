@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Woods</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #333;
+            color: #fff;
+        }
+        h1 {
+            margin-top: 50px;
+        }
+        img {
+            margin: 20px auto;
+            width: 60%;
+        }
+        a {
+            text-decoration: none;
+            font-size: 20px;
+            color: #fff;
+            background-color: #444;
+            padding: 10px 15px;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dark Woods</h1>
+    <img src="images/dark-woods.jpg" alt="Dark Woods">
+    <br>
+    <a href="index.html">Back to Main Menu</a>
+</body>
+</html>
