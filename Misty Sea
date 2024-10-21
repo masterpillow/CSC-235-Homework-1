@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Misty Sea</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #558;
+            color: #f0f0f0;
+        }
+        h1 {
+            margin-top: 50px;
+        }
+        img {
+            margin: 20px auto;
+            width: 60%;
+        }
+        a {
+            text-decoration: none;
+            font-size: 20px;
+            color: #f0f0f0;
+            background-color: #444;
+            padding: 10px 15px;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Misty Sea</h1>
+    <img src="images/misty-sea.jpg" alt="Misty Sea">
+    <br>
+    <a href="index.html">Back to Main Menu</a>
+</body>
+</html>
